@@ -7,6 +7,14 @@ This project analyzes Airbnb listing data to identify the key drivers of guest s
 
 Using Python, exploratory data analysis, Logistic Regression, and Random Forest models, the project evaluates how host characteristics, amenities, and listing features impact overall guest ratings.
 
+## Key Results
+
+- Analyzed 395 Airbnb listings
+- Built Logistic Regression and Random Forest models
+- Achieved ROC-AUC of 0.806
+- Identified Superhost status and amenity count as strongest predictors of high ratings
+- Generated actionable recommendations for Airbnb hosts
+
 ## Dataset
 
 Source:
